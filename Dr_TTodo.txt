@@ -1,0 +1,24 @@
+Expand this code.
+upon input of x or X in accept Order
+do the receipt generation process
+(check) 1. Accept tip (from user)
+   suggest 20% or more
+(check) 2.Calculate
+  Totaldue + tax + tip
+(check) 3. Accept payment type
+    Credit Card or Cash
+(check) 4. Accept tender amount from user
+   If(tender >= (Totaldue + tax + tip))
+(check) 5. if cash calc change
+(check) 6. if card process payment
+(check) 7. Then generate receipt on screen void printReceipt(vector<MenuItem> &m, double subtotal); //pass the subtotal and/or another needed variables in this regard
+(not sure how to do) 8. next steps generate that same 
+   reciept as an output HTML document
+   webpage Wow Factor! Whaaat!!!
+(check) 9. Loop program to start over for a 
+  new user, until exit of the whole program. 
+(check) 10 - Next, next steps, write this program
+    in Object Oriented style vs. Struct style
+
+(check)    Bells and Whistles 
+    ADD COLOR To the MENU to ENHANCE OUTPUT
