@@ -12,7 +12,7 @@ Print a menu to for the customer to order from
 The ability for the customer to order/leave a tip/and pay for their food
 Print a reciept for the customer
 Print the reciept an html file
-Loop entire program to accept multiple customers with an exit labeled as store closed
+Loop entire program to accept multiple customers with an exit labeled as store closed 
 */
 
 #include <iostream>
